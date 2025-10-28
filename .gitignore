@@ -1,0 +1,49 @@
+# MATLAB/Simulink
+*.asv
+*.autosave
+*.bak
+*~
+*.mex*
+*.p
+*.slx.part
+*.mdl.part
+*.slxc
+*.rel
+*.scc
+*.idx
+*.bld
+*.pdb
+*.orig
+*.obj
+*.o
+*.lib
+*.dll
+*.exe
+*.manifest
+*.rsp
+*.dep
+*.zip
+*.log
+*.err
+*.sbr
+*.ilk
+*.pch
+
+# MATLAB generated folders
+slprj/
+_slp/
+_clang-target/
+.MathWorks/
+.matlab/
+
+# Our project-specific folders
+output/
+
+# OS-generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
